@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather App
 
 Welcome to the Weather App repository! This project is a web application that provides real-time weather updates for any location. It utilizes HTML, CSS, and JavaScript to deliver a user-friendly interface and fetches data using the OpenWeatherMap API.
@@ -61,3 +62,6 @@ Linkedin: [@kaushalsahu07](www.linkedin.com/in/kaushalsahu07).<br>
 Instagram: [@cd.kaushal](https://www.instagram.com/cd.kaushal?igsh=cTVram1ia3Vvamxz).<br>
 Portfolio: [Website Link ](https://kaushalsahu07.github.io/portfolio/).<br>
 X (Tweeter): [@kaushalsahu_07](https://x.com/kaushalsahu_07?t=7nk-jApWrJkgW6YwklJZWQ&s=09).<br>
+=======
+# Weather_APP
+>>>>>>> 5aac7d39b33b4368f8e21cd05a58a4d7a3199055
